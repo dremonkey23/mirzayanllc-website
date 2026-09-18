@@ -1,0 +1,4 @@
+# Keep document bytes intact and exclude binary streams from text diffs.
+*.pdf binary
+*.png binary
+*.xlsx binary
